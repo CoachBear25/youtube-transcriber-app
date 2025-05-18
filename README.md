@@ -41,7 +41,9 @@ youtube-transcriber-app/
 
 | Upload Screen | Transcript + Summary |
 |---------------|----------------------|
-| ![Upload](https://your-upload-screenshot-url.png) | ![Results](https://your-results-screenshot-url.png) |
+| ![image](https://github.com/user-attachments/assets/9c2ec034-ce30-4d11-b9e0-7f5c754a241f)
+) | ![image](https://github.com/user-attachments/assets/98d99dd3-9b53-4ac2-a536-9b5ab63ddd04)
+ |
 
 > 🔁 Replace URLs with your actual hosted images (e.g. from GitHub Issues or Imgur).
 
