@@ -12,7 +12,9 @@ An AI-powered fullstack application that transcribes audio from YouTube videos u
 
 ## 📸 Screenshots
 
-> (Add your own UI screenshots here!)
+> ![image](https://github.com/user-attachments/assets/12fcd1dc-8838-40b6-b1da-cacf712074ee)
+![image](https://github.com/user-attachments/assets/4434ff64-1c11-4fe6-97b7-9ee6faac014d)
+
 
 ---
 
