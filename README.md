@@ -46,10 +46,10 @@ youtube-transcriber-app/
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/9c2ec034-ce30-4d11-b9e0-7f5c754a241f" width="100%" />
+      <img src="https://github.com/user-attachments/assets/b438cfd5-79b5-4ef6-bd82-6dc5d09cba56" width="100%" />
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/98d99dd3-9b53-4ac2-a356-9b5ab63ddd04" width="100%" />
+      <img src="https://user-images.githubusercontent.com/...your-second-image-url..." width="100%" />
     </td>
   </tr>
 </table>
