@@ -39,20 +39,7 @@ youtube-transcriber-app/
 
 ## 📸 Screenshots
 
-<table>
-  <tr>
-    <th>Upload Screen</th>
-    <th>Transcript + Summary</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/b438cfd5-79b5-4ef6-bd82-6dc5d09cba56" width="100%" />
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/...your-second-image-url..." width="100%" />
-    </td>
-  </tr>
-</table>
+<img src="https://github.com/user-attachments/assets/b438cfd5-79b5-4ef6-bd82-6dc5d09cba56" width="100%" />
 
 
 > 🔁 Replace URLs with your actual hosted images (e.g. from GitHub Issues or Imgur).
